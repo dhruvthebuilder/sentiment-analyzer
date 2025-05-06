@@ -1,4 +1,7 @@
 streamlit
 openai
+praw
+yfinance
+pandas
 requests
-python-dotenv
+certifi
